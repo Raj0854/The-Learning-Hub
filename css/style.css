@@ -31,7 +31,7 @@ input::placeholder{
     color: black !important;
 }
 .bg-img{
-    background-image: url("../img/ng1.jpg");
+    background-image: url("../img/ng.jpg");
     background-size: cover;
     border-radius: 20px
     
