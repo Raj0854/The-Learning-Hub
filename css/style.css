@@ -48,3 +48,10 @@ input::placeholder{
     color: white !important;
 
 }
+.line2{
+    text-shadow: 2px 2px 4px #FFFFFF;
+    font-weight: bold;
+    font-style: italic;
+    color: black !important;
+
+}
