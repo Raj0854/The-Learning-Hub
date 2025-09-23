@@ -55,3 +55,9 @@ input::placeholder{
     color: black !important;
 
 }
+.img2{
+    border-radius: 80px;
+    box-shadow: 10px 10px 8px 10px rgba(0, 0, 0, 0.5);
+    height: 500px;
+   
+    }
