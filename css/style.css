@@ -71,3 +71,8 @@ input::placeholder {
 
 }
 
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
